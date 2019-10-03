@@ -11,7 +11,7 @@
 
 🔷 Open command line in this folder and check the status of your files using the command git status .
 
-🔶 Add all files using git add .
+🔶 Update the index.html file with your relevant information and upload your image in the img folder.
 
 🔷 Commit your changes using git commit -m "your message"
 
